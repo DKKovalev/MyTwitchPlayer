@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_action_solid_dark_grey_heart_md" android:state_checked="false" />
+    <item android:drawable="@drawable/ic_action_solid_dark_red_heart_md" android:state_checked="true"/>
+</selector><!-- From: file:/C:/Android%20Programming/MyTwitchPlayer/app/src/main/res/drawable/selector.xml -->

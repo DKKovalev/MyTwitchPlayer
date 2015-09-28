@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyTwitchPlayer</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="base_kraken_url">https://api.twitch.tv/kraken/</string>
+    <string name="stream_token_url">https://api.twitch.tv/api/</string>
+    <string name="stream_video_url">http://usher.twitch.tv/api</string>
+
+</resources>
